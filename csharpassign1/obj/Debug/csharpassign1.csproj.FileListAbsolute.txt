@@ -1,0 +1,6 @@
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\bin\Debug\csharpassign1.exe.config
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\bin\Debug\csharpassign1.exe
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\bin\Debug\csharpassign1.pdb
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\obj\Debug\csharpassign1.csprojResolveAssemblyReference.cache
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\obj\Debug\csharpassign1.exe
+c:\users\prana\onedrive\documents\visual studio 2017\Projects\csharpassign1\csharpassign1\obj\Debug\csharpassign1.pdb
